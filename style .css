@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	text-align: center;
+	padding: 20px;
+}
+
+h2{
+	text-align: center;
+	padding: 20px;
+}
+
+.register{
+	background: #2d85b0;
+	width: 500px;
+	margin: 10px 10px 10px 550px;
+	color: white;
+	font-size: 20px;
+	padding: 50px;
+	border-radius: 10px;
+}
+
+#register{
+	margin-left: 60px;
+}
+
+/*label
+	color: white;
+	font-family: sans-serif;
+	font-size: 20px;
+	font-style: italic;
+
+}*/
+
+#name{
+	width: 400px;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#id{
+	width: 400px;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#Select-Department{
+	width: 400px;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#Email{
+	width: 400px;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#DOJ{
+	width: 400px;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.submit{
+	margin: 10px;
+	padding: 10px;
+}
+
+.clear{
+	margin: 10px;
+	padding: 10px;
+}
